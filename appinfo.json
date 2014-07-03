@@ -1,0 +1,18 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "gregstumbles@googlemail.com",
+    "longName": "SwimTag APP",
+    "resources": {
+        "media": []
+    },
+    "shortName": "SWIM TAG ",
+    "uuid": "31335cd9-9950-4f41-8672-e9bf483f24d1",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
